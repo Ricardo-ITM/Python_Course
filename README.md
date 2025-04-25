@@ -1,5 +1,5 @@
 # Python_Course
-# Curso Introductorio de Python
+Curso Introductorio de Python
 
 # 1. Variables
 A container for a value (string, integer, float, boolean). A variable behaves as if it was the value it contains.
