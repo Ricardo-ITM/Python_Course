@@ -1,3 +1,6 @@
+Notes from:
+[Python Full Course for free 🐍 (2024) by Bro Code](https://youtu.be/ix9cRaBkVe0?si=qv3AoAIY4MvS0bBv)
+
 # 1. Variables
 A container for a value (string, integer, float, boolean). A variable behaves as if it was the value it contains.
 
